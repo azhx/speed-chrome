@@ -1,5 +1,5 @@
 # speed-chrome
-Better chrome hotkeys and functionality with Autocontrol and new native extensions 
+Better chrome hotkeys and functionality with Autocontrol's use of new native extensions 
 
 <a href = 'https://chrome.google.com/webstore/detail/autocontrol-shortcut-mana/lkaihdpfpifdlgoapbfocpmekbokmcfd'> Uses AutoControl for Chrome</a>
 
