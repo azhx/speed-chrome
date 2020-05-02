@@ -20,4 +20,4 @@ Better chrome hotkeys and functionality with Autocontrol's use of new native ext
 # Usage:
 load .dat file into Autocontrol
 
-  
+To open new windows programmatically you might have to change the path to your own chrome exe location if it is not `C:\Program Files (x86)\Google\Chrome\Application\chrome.exe`
